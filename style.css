@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+#image {
+	height: 80px;
+	width: 80px;
+}
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
